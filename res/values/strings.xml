@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionTabBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="first_tab">First Tab</string>
+    <string name="second_tab">Second Tab</string>
+    <string name="third_tab">Third Tab</string>
+
+</resources>
